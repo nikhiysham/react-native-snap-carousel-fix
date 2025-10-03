@@ -1,6 +1,9 @@
 # react-native-snap-carousel-fix
 
-Simple carousel component with snapping effect on Android & iOS for React Native (Forked from https://github.com/meliorence/react-native-snap-carousel)
+Simple carousel component with snapping effect on Android & iOS for React Native
+
+(Forked from https://github.com/meliorence/react-native-snap-carousel)
+
 This is fix for PropTypes undefined
 
 ## Usage
